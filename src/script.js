@@ -29,12 +29,12 @@ function RandomUniform(min, max) {
 const loader = new THREE.TextureLoader();
 
 const materials = [
-    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/2vsftQS.png') }), // front
-    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/Qwx30uH.png') }), // back
-    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/dNiIVXx.png') }), // top
-    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/KGUlIEP.png') }), // bottom
-    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/0buBH1c.png') }), // side 1
-    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/ntw3Sft.png') }), // side 2
+    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/jcV1zwX.png')}), // front
+    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/s29mRaU.png')}), // back
+    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/JXgMWgO.png')}), // top
+    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/M3qi1xP.png')}), // bottom
+    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/hoJLM7l.png')}), // side 1
+    new THREE.MeshBasicMaterial({ map: loader.load('https://i.imgur.com/L75YZT9.png')}), // side 2
 ];
 
 
