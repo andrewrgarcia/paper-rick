@@ -6,7 +6,7 @@ A template to develop UV mapped structures from papercraft files.
 
 * papercraft templates: cubeecraft https://www.cubeecraft.com/
 
-![template](/home/andrew/scripts/paper-rick/template.jpg)
+![](template.jpg)
 
 ## Contributors
 
