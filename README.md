@@ -1,3 +1,6 @@
-# morty
+# paper-rick
 
-see scripts/morty for cubecraft. scripts/morty will be new repository (open-source)
+A template to develop UV mapped structures from papercraft files.
+
+// webpack infrastructure: Bruno Simon [ three.js journey course: https://threejs-journey.com/ ]
+// papercraft templates: cubeecraft https://www.cubeecraft.com/
